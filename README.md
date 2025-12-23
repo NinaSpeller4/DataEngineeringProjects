@@ -1,3 +1,3 @@
 # DataEngineeringProjects
 ## Data Engineering Projects
-<img src = "DataEngineeringImage" width = '400'/>
+<img src = "dataengineeringimage" width = '400'/>
