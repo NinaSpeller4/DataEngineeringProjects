@@ -1,2 +1,3 @@
 # DataEngineeringProjects
-Data Engineering Projects
+## Data Engineering Projects
+<img src = "DataEngineeringImage" width = '400'/>
