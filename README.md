@@ -19,6 +19,13 @@ This repository serves as a curated portfolio of my data engineering projects, c
 ### 🔹 Data Engineering Project Hub (This Repository)
 A centralized index of my data engineering work, including coursework exercises and independent practice projects, designed to evolve alongside my studies.
 
+### 🔹 MIT PCDE Coursework — Activity 9.1
+An introductory data engineering exercise completed as part of the MIT Professional Certificate in Data Engineering program, focused on Python-based data handling and reproducible notebook workflows.
+
+**Skills demonstrated:** Python, Jupyter Notebooks, Git, GitHub
+
+[View repository →](https://github.com/NinaSpeller4/PCDE-Activity-9.1)
+
 ### 🔹 Git & Version Control Practice
 Hands-on exercises focused on Git workflows, repository structure, commits, and documentation best practices, emphasizing clean, reproducible development habits.
 
